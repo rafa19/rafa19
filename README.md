@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafiz
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Blockchain
-- 💞️ I am looking for future collaboration
+- 🔗 I’m currently learning Blockchain
+- 🤝 I am looking for future collaboration
 - 📫 You can reach me on Telegram @rafizguliyev
 
 <!---
